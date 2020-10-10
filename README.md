@@ -16,7 +16,7 @@
  ## Status do projeto
  
  <h4 align="center">
-   🚧 Site Responsivo 🚀 Em construção... 🚧
+   🚧 Site Responsivo 🚀 Concluido!!! 🚧
  </h4>
 
 ## Author
